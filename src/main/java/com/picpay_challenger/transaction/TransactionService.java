@@ -1,5 +1,6 @@
 package com.picpay_challenger.transaction;
 
+import com.picpay_challenger.authorization.AuthorizerService;
 import com.picpay_challenger.notification.Notification;
 import com.picpay_challenger.wallet.Wallet;
 import com.picpay_challenger.wallet.WalletRepository;
